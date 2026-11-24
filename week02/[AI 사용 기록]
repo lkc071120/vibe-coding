@@ -5,8 +5,8 @@
 
 AI에게 제공한 입력:
 
- 1) 알츠하이머 질병 단백질과 결합하는 단백질을 찾는 연구 설계 제안.
- 2) Biopython, Pandas, Matplotlib을 활용한 데이터 수집 $\rightarrow$ 계산 $\rightarrow$ 저장 $\rightarrow$ 시각화의 자동화 파이프라인 구축.
+ 1) 알츠하이머 질병 단백질과 결합하는 조력 단백질을 찾는 연구 설계 및 자동화 파이프라인 구축 요청.
+ 2) Biopython, Pandas, Matplotlib을 활용한 데이터 수집 -> 계산 -> csv 저장 -> 그래프로 시각화의 자동화 파이프라인 구축 요청.
  3) 계산 과정(에너지 산출 원리)과 코드의 각 문법(class, import, self 등)에 대한 상세 설명 요청.
 
 
